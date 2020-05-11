@@ -1,0 +1,67 @@
+
+
+/* .links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+.form-control, .form-control:focus, .form-control:active{
+    font-weight: 600;
+    background: #1d2124;
+    color:white;
+}
+input.form-control::placeholder{
+    color: #ffffff30;
+} */
+
+
+.recipesDescription{
+    text-align:center;
+    padding: 105px 0px;
+}
+
+.recipeImage{
+    max-width: 100%;
+    box-shadow: 10px 10px 34px -2px rgba(0,0,0,0.42);
+    max-height: 315px;
+}
+
+.recipeDiv{
+    padding: 50px;
+}
+
+.deleteFormGroupButton{
+    margin-top: 32px;
+}
+
+.ingredientsSpecial p{
+    margin-bottom: 0px;
+}
+
+.event, .local, .promocode, .sale{
+    font-size: 15px;
+    width: 200px;
+}
+.event{
+    color: red;
+}
+
+.local{
+    color: green;
+}
+
+.promocode{
+    color: #007bff;
+}
+
+.sale{
+    color: #9100ff;
+}
